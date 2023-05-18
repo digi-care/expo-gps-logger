@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "ExpoReactNativeApp",
-    "slug": "ExpoReactNativeApp",
-    "version": "0.0.0-alpha.0",
+    "name": "expo GPS Logger",
+    "slug": "expo-gps-logger",
+    "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
